@@ -17,7 +17,7 @@ The player interacts with a slot machine that randomly determines outcomes. Due 
 - **Double Chance:** You have double the chance of landing on scatter symbols, increasing the likelihood of triggering free spins feature.
 - **Triple Chance:** You have triple the chance of landing on scatter symbols for an even higher probability of triggering free spins feature.
 - **Wild Row:** Guarantees that a wild symbol will appear on the wild row, increasing your chances of winning.
-- **Feature Spin:** Guarantees a feature spin where you can win special boosts.
+- **Feature Spin:** Guarantees a feature spin where you can win special boosts. **You can trigger a feature spin** by getting a hit all the way across the reels.
 - **Bonus Buy:** Grants you 10-15 spins, with each spin having a random multiplier. Any boosts obtained during feature spins remain active for the duration of the Bonus Buy.
 - **Super Bonus Buy:** Grants 13 spins, with a random multiplier applied on each spin. In addition, any row that hits can expand its ways(size).
 
@@ -25,6 +25,7 @@ The player interacts with a slot machine that randomly determines outcomes. Due 
 - **Multiplier:** Multiplies your win by a random factor, increasing your payout.
 - **Wild:** Introduces wild symbols, which can replace other symbols to form winning combinations.
 - **Ways:** Randomly expands the number of ways to win by increasing the size of the rows.
+
 
 ## How to Use
 
